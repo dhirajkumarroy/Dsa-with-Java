@@ -1,5 +1,4 @@
 package Recursion;
-
 public class basicRecursion {
 
     static void fun1(){
