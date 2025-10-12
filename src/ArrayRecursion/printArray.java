@@ -10,6 +10,8 @@ public class printArray {
         System.out.print(arr[idx] +" ");
 
         print_arr(arr,idx+1);
+
+//        System.out.print(arr[idx] +" ");  print  reverse of array
     }
 
     public static void main(String[] args) {
