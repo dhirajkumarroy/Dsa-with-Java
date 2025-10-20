@@ -17,8 +17,8 @@ public class reverseOfStr {
            return "";
        }
        String smallans = reverse_of_str(st.substring(1));
-       char current = st.charAt(0);
-       return smallans + current;
+       char current = st.charAt(0); // char
+       return smallans + current;  // char + String => String
    }
 
     public static void main(String[] args) {
