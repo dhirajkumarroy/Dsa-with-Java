@@ -27,9 +27,8 @@ public class reverseOfStr {
         String str = sc.nextLine();
 
         System.out.println(reverse_of_str(str));
-
         System.out.println(reverse_of_str2(str,0));
+
         System.out.println(str);
     }
 }
-
